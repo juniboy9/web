@@ -1,15 +1,15 @@
-section{
-    height: 100vh;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center center;
+section {
+  height: 100vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
 }
 
 .hero {
-    background-image: url(https://www.tabatakouji.biz/mgr/wp-content/uploads/2019/05/LDK-japanesuroom.jpg);
-    text-align: center;
-    padding-top: 10vh;
-    font-family: 'Edu VIC WA NT Hand', cursive;
-    font-size: 4rem;
-    margin-bottom: 2rem;
+  background-image: url(https://www.tabatakouji.biz/mgr/wp-content/uploads/2019/05/LDK-japanesuroom.jpg);
+  text-align: center;
+  padding-top: 10vh;
+  font-family: 'Edu VIC WA NT Hand', cursive;
+  font-size: 4rem;
+  margin-bottom: 2rem;
 }
